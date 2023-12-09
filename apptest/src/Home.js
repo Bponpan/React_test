@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function Home() {
   return (
     <div className="App">
       <h1>Hello</h1>
@@ -9,4 +8,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
